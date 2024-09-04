@@ -32,7 +32,7 @@ export default function Contact() {
                                 <ul className="mb-6 md:mb-0">
                                     <li className="flex items-center mb-8">
                                         <div class="flex items-center justify-center gap-x-5 ">
-                                            <a href="" aria-label="Find us on LinkedIn"
+                                            <a href="https://www.linkedin.com/company/ieee-wie-student-branch-affinity-group-of-sliit/" aria-label="Find us on LinkedIn"
                                                 target="_blank" rel="noopener">
                                                 <svg class="h-6 w-6 text-white" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -41,8 +41,8 @@ export default function Contact() {
                                                 </svg>
 
                                             </a>
-                                        
-                                            <a href="" aria-label="Find us on Facebook" target="_blank"
+
+                                            <a href="https://www.facebook.com/WIESLIIT?mibextid=LQQJ4d" aria-label="Find us on Facebook" target="_blank"
                                                 rel="noopener">
                                                 <svg class="h-6 w-6 text-white" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -51,7 +51,7 @@ export default function Contact() {
                                                 </svg>
 
                                             </a>
-                                            <a href="" aria-label="Find us on Instagram" target="_blank"
+                                            <a href="https://www.instagram.com/wie_sliit?igsh=MXE5NXlvbG5vZWRobg%3D%3D&utm_source=qr" aria-label="Find us on Instagram" target="_blank"
                                                 rel="noopener">
                                                 <svg class="h-6 w-6 text-white" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path
@@ -70,7 +70,9 @@ export default function Contact() {
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe"><circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /><path d="M2 12h20" /></svg>
                                         </div>
                                         <div className="ml-4">
-                                            <h3 className="text-lg font-medium leading-6 text-gray-900 dark:text-white">IEEE Membership Redirect</h3>
+                                            <a href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join">
+                                                <h3 className="text-lg font-medium leading-6 text-gray-900 dark:text-white">IEEE Membership Redirect</h3>
+                                            </a>
 
                                         </div>
                                     </li>
@@ -79,7 +81,9 @@ export default function Contact() {
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe"><circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /><path d="M2 12h20" /></svg>
                                         </div>
                                         <div className="ml-4">
-                                            <h3 className=" text-lg font-medium leading-6 text-gray-900 dark:text-white">IEEE WIE Membership Redirect</h3>
+                                            <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMWIE050&searchResults=Y">
+                                                <h3 className=" text-lg font-medium leading-6 text-gray-900 dark:text-white">IEEE WIE Membership Redirect</h3>
+                                            </a>
 
                                         </div>
                                     </li>
@@ -88,7 +92,9 @@ export default function Contact() {
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe"><circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /><path d="M2 12h20" /></svg>
                                         </div>
                                         <div className="ml-4">
+                                            <a href="https://forms.gle/evuv7fxAXP8DTTwt8">
                                             <h3 className=" text-lg font-medium leading-6 text-gray-900 dark:text-white">Join IEEE WIE of SLIIT</h3>
+                                            </a>
 
                                         </div>
                                     </li>
